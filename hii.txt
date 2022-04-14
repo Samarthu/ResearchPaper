@@ -1,0 +1,61 @@
+
+Now days web and mobile Apps are become an important part of everyone's life and 
+it plays crutial role in order to ease their day to day tasks. But the problem infront 
+of software stakeholders is that they have to build both native apps for accessing it
+in mobile and Web-based apps for accessing it via Desktop for providing the same features
+and functionalities to endusers. to solve this problem 
+
+
+
+Title: Progressive Web Apps Using Svelte
+Abstract:
+Now a days web and mobile Apps are becoming an important part of everyone's 
+life and it plays a crucial role in order to ease their day to day tasks. 
+But the problem in front of software stakeholders is to build both native apps
+and web-based apps for endusers while having same functionalities and features.
+To solve this problem Progressive Web Apps i.e PWA is here, This concept firstly
+presented by google developer with the vision of “build better experiences across
+devices and contexts within a single code base” as before this time we needed 
+different multiple code bases to create beautiful apps.So to provide good, fast
+and economic software products several web frameworks were created. To choose 
+best of all framework (currently present in world like React, Angular, svelte, Vue, etc.) 
+especially for progressive web apps is 
+the challenge. This paper describes how svelte is a good option for building 
+PWA over different existing web frameworks.
+
+Web application is way to share information and connect the people all over the internet.
+With that thought people developed different ways to connect people, where they find
+new concept like android mobile apps. 
+Now days web and mobile Apps are become an important part of everyone's life and it plays 
+crutial role in order to ease their day to day tasks.But the problem infront of software 
+stakeholders is that they have to build both native apps for accessing it in mobile and
+Web-based apps for accessing it via Desktop for providing the same features
+and functionalities to endusers. to solve this problem Progressive Web Apps 
+i.e PWA is here, This concept firstly presented by google developer 
+with the vision of “build better experiences across devices and contexts
+within a single codebase” as before this time we needed different multiple
+codebases to create beautiful apps. So to provide good, fast and economical 
+software products several web frameworks were created. To choose best of all 
+framework (currently present in world like React, Angular,svelte, Vue, etc.)specially 
+for progressive web apps is the challenge. This paper describes how svelte is good option
+for building PWA over different existing web frameworks. Result reveal that how to choose 
+best frameworks to solve real world problems.
+
+
+In current world, we have different frameworks for PWA like angular, react, vue etc. So we
+have studied how svelte is more better than other frameworks. PWA using svelte is technology
+stack which is get used in different IT industries for solving different business requirements.
+In this paper we have discuss how svelte for PWA have advantages compare to other frameworks. 
+Code written in svelte is very easy to understand also it is easy to write code as compared to 
+other frameworks. PWAs has advantages over android apps like it lightweight, supports offline 
+feature and can be run on any browser. We can also download PWA apps in our mobile and use it
+as android app. Result reveal that how to choose best frameworks to solve real world problems.
+Similarly as technologies grow as people grow, new modifications in apps changed the growth 
+of peoples as well as of organizations. One of the modification we have is progressive web apps.
+This concept firstly presented by google developer with the vision of “build better experiences
+across devices and contexts within a single codebase” as before this time we needed different 
+multiple codebases to create beautiful apps.  So to provide good, fast and economical software
+products several web frameworks were created. To choose best of all framework specially for 
+progressive web apps is the challenge, so we have discussed in this paper about how svelte 
+is good for PWAs.
+
